@@ -1,3 +1,3 @@
 # neog-camp-exercises
 
-1. [ week two] (./week-two)
+1. [ week two](./week-two)
